@@ -1,2 +1,2 @@
-global_server = global_server
-local_server = local_server
+global-system = global-system
+local-system = local-system
